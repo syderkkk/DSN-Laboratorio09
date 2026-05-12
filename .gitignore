@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+.aws/
+.agents/
+skills-lock.json
